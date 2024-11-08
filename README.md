@@ -24,7 +24,7 @@
 A curated collection of resources, implementations, research papers, and tools focused on **Multi-Agent Reinforcement Learning (MARL)** in the context of **Graph-based** environments. This repository aims to provide a comprehensive overview of the intersection between MARL and graph theory, enabling researchers and developers to explore, understand, and build on the emerging applications of multi-agent systems in graph-structured domains.
 
 <p align="center">
-<img src="img/marl_on_graphs.webp" width="20%", height="20%">
+<img src="img/marl_on_graphs.webp" width="30%", height="30%">
 </p>
 
 ## Table of Contents
