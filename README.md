@@ -77,6 +77,7 @@ Graph-based machine learning focuses on applying machine learning techniques to 
 - [(2019) Hyperbolic Graph Convolutional Neural Networks, Ines Chami et al.](https://arxiv.org/abs/1910.12933)
 - [(2019) Hyperbolic Graph Neural Networks, Qi Liu et al.](https://arxiv.org/abs/1910.12892)
 - [(2019) Graphite: Iterative Generative Modeling of Graphs, Aditya Grover et al.](https://arxiv.org/pdf/1803.10459)
+- [(2019) Fast Graph Representation Learning with PyTorch Geometric, Matthias Fey et al.](https://arxiv.org/abs/1903.02428)
 - [(2018) Relational inductive biases, deep learning, and graph networks, Peter W. Battaglia et al.](https://arxiv.org/abs/1806.01261)
 - [(2018) Deep Graph Infomax, Petar Veličković et al.](https://arxiv.org/abs/1809.10341)
 - [(2017) Neural Message Passing for Quantum Chemistry, Justin Gilmer et al.](https://arxiv.org/abs/1704.01212)
@@ -107,6 +108,7 @@ Graph-based machine learning focuses on applying machine learning techniques to 
 
 ### Books
 - [*Probabilistic Machine Learning: An Introduction* by Kevin Patrick Murphy (MIT Press, March 2022.)](https://probml.github.io/pml-book/book1.html)
+- [(2025) Graph Representation Learning Book, William L. Hamilton et al.](https://www.cs.mcgill.ca/~wlh/grl_book/)
 
 ### Talks and Videos
 - [Understanding Graph Neural Networks | Part 1/3 - Introduction](https://www.youtube.com/watch?v=fOctJB4kVlM&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z)
@@ -115,11 +117,15 @@ Graph-based machine learning focuses on applying machine learning techniques to 
 - [Data handling in PyTorch Geometric (Part 1)](https://www.youtube.com/watch?v=Vz5bT8Xw6Dc)
 - [Pytorch Geometric tutorial: Edge analysis](https://www.youtube.com/watch?v=m1G7oS9hmwE)
 - [Advanced PyTorch Geometric Tutorial 4](https://www.youtube.com/watch?v=qL09oshDKww)
+- [Fast Graph Representation Learning with PyTorch Geometric (PyG), Matthias Fey et al.](https://rusty1s.github.io/pyg_slides.pdf)
+- [Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 1.1 - Why Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA)
 - [(2023) Overview of Graph Representation Learning (Slides),  Jure Leskovec](https://snap.stanford.edu/graphlearning-workshop/slides/stanford_graph_learning_Overview.pdf)
 - [(2023) PyG 2.0 Advanced Representation Learning on Graphs (Slides), Talk by Matthias Fey](https://snap.stanford.edu/graphlearning-workshop/slides/stanford_graph_learning_PyG_2_0.pdf)
 - [(2023) GraphGym: Easy-to-use API for Graph Learning (Slides), Talk by Jiaxuan You](https://snap.stanford.edu/graphlearning-workshop/slides/stanford_graph_learning_GraphGym.pdf)
 
-
+### Learning Ressources
+- [Stanford CS224W Graph ML Projects](https://medium.com/stanford-cs224w)
+- [Stanford CS224W: Machine Learning with Graphs (Playlist)](https://www.youtube.com/playlist?list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp)
 
 
 ### Blog Posts
